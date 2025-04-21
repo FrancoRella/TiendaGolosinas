@@ -1,0 +1,26 @@
+[
+    {
+      "id": 4001,
+      "id_usuario": 1,
+      "fecha": "03-04-2025",
+      "total": 5500,
+      "dirección": "Av. Colon 1245",
+      "productos": [
+        { "id": 100, "cantidad": 3 },
+        { "id": 102, "cantidad": 1 }
+      ],
+      "entregado": true
+    },
+    {
+      "id": 4002,
+      "id_usuario": 2,
+      "fecha": "03-04-2025",
+      "total": 17500,
+      "dirección": "Fragueiro 125",
+      "productos": [
+        { "id": 102, "cantidad": 4 },
+        { "id": 101, "cantidad": 5 }
+      ],
+      "entregado": false
+    }
+  ]

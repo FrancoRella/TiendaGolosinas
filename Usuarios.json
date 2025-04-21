@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "nombre": "Otto",
+      "apellido": "Barraza",
+      "email": "Otto.barraza@gmail.com",
+      "contraseña": "Ottito123456",
+      "dirección": "Av. italia 256",
+      "teléfono": "351685674"
+    },
+    {
+      "id": 2,
+      "nombre": "Franco",
+      "apellido": "Rella",
+      "email": "Franr@gmail.com",
+      "contraseña": "Fran123456",
+      "dirección": "Av. San Martin 301",
+      "teléfono": "3514859632"
+    }
+  ]
