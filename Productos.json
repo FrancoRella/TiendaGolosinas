@@ -1,36 +1,46 @@
 [
-    {
-      "id": 100,
-      "marca": "Haribo",
-      "nombre": "Gomitas Ositos 250g",
-      "desc": "Clásicos ositos de goma con sabores frutales, importados de EE.UU.",
-      "precio": 1000,
-      "imagen": "haribo_ositos.jpg",
-      "stock": 300,
-      "origen": "EE.UU.",
-      "categoría": "Caramelos"
-    },
-    {
-      "id": 101,
-      "marca": "Skittles",
-      "nombre": "Skittles Original 191g",
-      "desc": "Caramelos de fruta cubiertos de azúcar, importados de EE.UU.",
-      "precio": 1500,
-      "imagen": "skittles_original.jpg",
-      "stock": 300,
-      "origen": "EE.UU.",
-      "categoría": "Caramelos"
-    },
-    {
-      "id": 102,
-      "marca": "KitKat",
-      "nombre": "KitKat Mini Matcha 136g",
-      "desc": "Mini chocolates KitKat con sabor a té matcha, importados de Japón.",
-      "precio": 2500,
-      "imagen": "kitkat_matcha.jpg",
-      "stock": 150,
-      "origen": "EE.UU.",
-      "categoría": "Chocolates"
-    }
-  ]
-
+  {
+    "id": 100,
+    "marca": "Haribo",
+    "nombre": "Gomitas Ositos 250g",
+    "desc": "Clásicos ositos de goma con sabores frutales, importados de EE.UU.",
+    "precio": 1000,
+    "imagen": "haribo_ositos.jpg",
+    "stock": 300,
+    "origen": "EE.UU.",
+    "categoría": "Caramelos"
+  },
+  {
+    "id": 101,
+    "marca": "Skittles",
+    "nombre": "Skittles Original 191g",
+    "desc": "Caramelos de fruta cubiertos de azúcar, importados de EE.UU.",
+    "precio": 2000,
+    "imagen": "skittles_original.jpg",
+    "stock": 300,
+    "origen": "EE.UU.",
+    "categoría": "Caramelos"
+  },
+  {
+    "id": 102,
+    "marca": "KitKat",
+    "nombre": "KitKat Mini Matcha 136g",
+    "desc": "Mini chocolates KitKat con sabor a té matcha, importados de Japón.",
+    "precio": 2500,
+    "imagen": "kitkat_matcha.jpg",
+    "stock": 150,
+    "origen": "EE.UU.",
+    "categoría": "Chocolates"
+  },
+  {
+    "id": 125,
+    "marca": "KitKat",
+    "nombre": "KitKat Mini Matcha 136g",
+    "desc": "Mini chocolates KitKat con sabor a té matcha, importados de Japón.",
+    "precio": 2500,
+    "imagen": "kitkat_matcha.jpg",
+    "stock": 150,
+    "origen": "EE.UU.",
+    "categoría": "Chocolates"
+  }
+]
